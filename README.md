@@ -18,6 +18,9 @@ To actually run the payment gateway run the following command.
 
 Then the server will start up and can be found locally in your browser (or your server IP if you installed it on a VM) at localhost:3000. 
 
+**NOTE:** The part where the key is created after the purchase came through is removed. You are on your own regarding that.
+
+
 This should redirect you automatically. If this doesn't work check your /etc/hosts file for more information on this.
 
 If there is anything else I can do for you I would love to hear back from you. You can find me on discord (Cozi#3870).
